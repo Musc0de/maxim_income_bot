@@ -1,6 +1,6 @@
 # README
 
-## Bot Penghitung Maxim
+## Bot Penghitung Pendapatan Driver Maxim
 
 Bot Penghitung Maxim adalah bot Telegram yang dirancang untuk membantu pengguna dalam mencatat dan mengelola order dan pengeluaran. Bot ini memungkinkan pengguna untuk menambah, menghapus, dan mengedit data order dan pengeluaran, serta menghasilkan laporan harian dan bulanan.
 
